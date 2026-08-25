@@ -1,2 +1,2 @@
 # The-beading-tales
-Website protoype for small bsuiness on instagram @thebeadingtales 
+Website prototype for a small business on Instagram @thebeadingtales 
